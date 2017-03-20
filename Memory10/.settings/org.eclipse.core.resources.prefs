@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/example/browser/SwitcherActivity.java=UTF-8
+encoding//src/com/example/browser/ViewPagerAdapter.java=UTF-8
+encoding//src/com/example/face/Storage.java=UTF-8
+encoding//src/com/example/face/Verify.java=UTF-8
+encoding//src/com/example/fragment/FaceFragment.java=UTF-8
+encoding//src/com/example/fragment/FragmentBytime.java=UTF-8
+encoding//src/com/example/fragment/ShowImageActivty.java=UTF-8
+encoding//src/com/example/memory10/AlbumItemActivity.java=UTF-8
+encoding//src/com/example/memory10/AlbumItemAdapter.java=UTF-8
+encoding//src/com/example/memory10/AlbumsAdapter.java=UTF-8
+encoding//src/com/example/memory10/PhotoUpAlbumHelper.java=UTF-8
+encoding//src/com/example/memory10/SearchActivity.java=UTF-8
+encoding//src/com/example/memory10/SearchTask.java=UTF-8
+encoding//src/com/example/sqlite/FaceDao.java=UTF-8

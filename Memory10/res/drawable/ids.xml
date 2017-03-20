@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Messages IDs -->
+	<item type="id" name="recognise" />
+	<item type="id" name="quit" />
+	<item type="id" name="auto_focus" />
+	<item type="id" name="detect_succ" />
+	<item type="id" name="detect_failed" />
+</resources>

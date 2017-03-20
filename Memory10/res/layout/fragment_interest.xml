@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+      <RelativeLayout
+    android:id="@+id/Layout1age"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFFFF"
+     >
+
+    <TextView
+        android:id="@+id/textViewmon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="#FFFFFFFF"
+        android:gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="趣味功能"
+        android:textSize="20dp" />
+   
+
+</RelativeLayout>
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="15dp"
+    android:background="#FFFFFFFF"
+    android:id="@+id/Layout2age"
+    
+     >
+    
+
+
+        <ImageView
+            android:id="@+id/imageViewmon1age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_launcher" />
+<TextView
+        android:id="@+id/textViewmon1age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewmon1age"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="人脸对比"
+        android:textSize="15dp" 
+        android:layout_toRightOf="@+id/imageViewmon1age"
+        android:layout_marginLeft="10dp"/>
+</RelativeLayout>
+<View  android:layout_height="1px" 
+           android:layout_width="match_parent"
+           android:background="#CCCCCC"
+   />
+
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+   android:id="@+id/Layout3age"
+    android:background="#FFFFFFFF"
+ >
+    
+
+
+        <ImageView
+            android:id="@+id/imageViewmon2age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_launcher" />
+<TextView
+        android:id="@+id/textViewmon2age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewmon2age"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="人脸分析"
+        android:textSize="15dp" 
+        android:layout_toRightOf="@+id/imageViewmon2age"
+        android:layout_marginLeft="10dp"/>
+</RelativeLayout>
+<View  android:layout_height="1px" 
+           android:layout_width="match_parent"
+           android:background="#CCCCCC"
+   />
+
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFFFF"
+    android:id="@+id/Layout4age"
+ >
+    
+
+
+        <ImageView
+            android:id="@+id/imageViewmon3age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_launcher" />
+<TextView
+        android:id="@+id/textViewmon3age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewmon3age"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="使用说明"
+        android:textSize="15dp" 
+        android:layout_toRightOf="@+id/imageViewmon3age"
+        android:layout_marginLeft="10dp"/>
+</RelativeLayout>
+<View  android:layout_height="1px" 
+           android:layout_width="match_parent"
+           android:background="#CCCCCC"
+   />
+
+
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFFFF"
+    android:id="@+id/Layout5age"
+ >
+    
+
+
+        <ImageView
+            android:id="@+id/imageViewmon4age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingTop="7dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_launcher" />
+<TextView
+        android:id="@+id/textViewmon4age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageViewmon4age"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="关于我们"
+        android:textSize="15dp" 
+        android:layout_toRightOf="@+id/imageViewmon4age"
+        android:layout_marginLeft="10dp"/>
+</RelativeLayout>
+
+    
+
+</LinearLayout>

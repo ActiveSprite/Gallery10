@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="setting_list_height">50dip</dimen>  
+    <dimen name="login_list_height">60dp</dimen>  
+    
+    <dimen name="title_bar_height">55dp</dimen>  
+    <dimen name="bottom_bar_height">60dp</dimen>  
+    
+    <dimen name="header_title_text_size">22sp</dimen>  
+    <dimen name="header_button_back_width">60dp</dimen>  
+    <dimen name="header_tab_width">80dp</dimen>  
+    <dimen name="header_tab_group_width">162dp</dimen>  
+    
+    <dimen name="dialog_list_height">55dip</dimen>  
+    <dimen name="view_line">5dip</dimen>  
+    
+    <dimen name="bottom_edit_height">70dp</dimen>  
+</resources>
